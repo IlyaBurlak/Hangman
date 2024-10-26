@@ -4,5 +4,4 @@
 ![image](src/img/prev.png)
 
 ## Стек:
->1. React
 >2. TypeScript
